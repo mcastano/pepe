@@ -1,4 +1,4 @@
-#from yaml import load, dump
+#from yaml import load, dump pozi
 import json, os, requests, time, copy
 def server():
     try:
